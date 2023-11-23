@@ -1,21 +1,9 @@
 {
-    "items":[
-        {
-            "id":1,
-            "checked":false,
-            "item":"Almonds"
-        },
-        {
-            "id":2,
-            "checked":false,
-            "item":"Meet"
-        },
-        {
-            "id":3,
-            "checked":false,
-            "item":"Milk"
-        }
-
-
-    ]
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "pizza"
+    }
+  ]
 }
