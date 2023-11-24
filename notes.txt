@@ -1,2 +1,0 @@
-create jason server by adding data folder in root and add db.json file. add json data into the file and run bellow command to run server
-npx json-server -p 3500 -w data/db.json 
